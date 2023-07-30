@@ -16,7 +16,7 @@ I'm actively seeking employment opportunities where I can apply and enhance my t
 
 ## 📫 How to reach me
 
-- My Website [https://hagay-elbaz.com]
+- [My Website](https://hagay-elbaz.com)
 - Email: hagayelbaz@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/hagay-elbaz/]
-- Twitter (X?): [https://twitter.com/hagayelbaz]
+- [LinkedIn](https://www.linkedin.com/in/hagay-elbaz/)
+- [Twitter (X?):](https://twitter.com/hagayelbaz)
