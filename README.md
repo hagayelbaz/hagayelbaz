@@ -19,4 +19,4 @@ I'm actively seeking employment opportunities where I can apply and enhance my t
 - [hagay-elbaz.com](https://www.hagay-elbaz.com)
 - Email: hagayelbaz@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hagay-elbaz/)
-- [Twitter (X?)](https://twitter.com/hagayelbaz)
+- [X](https://twitter.com/hagayelbaz)
