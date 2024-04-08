@@ -2,11 +2,6 @@
 
 I'm a Computer Science student currently residing in Israel. I have a strong passion for coding, whether it's frontend or backend development. Currently, 
 I'm actively seeking employment opportunities where I can apply and enhance my technical skills.
-
-## 🔭 Projects I’m currently working on
-
-- [Live-Chat](https://github.com/hagayelbaz/Live-Chat)
-- [still in progress](coming soon)
   
 ## 🌱 I’m currently learning
 
